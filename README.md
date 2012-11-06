@@ -1,6 +1,6 @@
 # Crafty Platformer
 
-Sample code for the article (http://jason.famularo.org/tbd). Uses the awesome [Crafty](http://craftyjs.com/) JS library.
+Sample code for this [article](http://jason.famularo.org/tbd). Uses the awesome [Crafty](http://craftyjs.com/) JS library.
 
 ## Goal
 
